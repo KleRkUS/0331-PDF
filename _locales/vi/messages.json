@@ -1,0 +1,305 @@
+{
+    "action_app_website": {
+        "message": "Trang web {app_name}"
+    },
+    "action_browser_settings": {
+        "message": "C\u00e0i \u0111\u1eb7t {browser_name}"
+    },
+    "action_chrome_web_store": {
+        "message": "C\u1eeda h\u00e0ng Web {browser_name}"
+    },
+    "action_convert_to": {
+        "message": "Chuy\u1ec3n \u0111\u1ed5i sang {file_type}"
+    },
+    "action_manage_settings": {
+        "message": "Qu\u1ea3n l\u00fd c\u00e0i \u0111\u1eb7t"
+    },
+    "appDesc": {
+        "message": "C\u00f4ng c\u1ee5 PDF d\u1ec5 s\u1eed d\u1ee5ng \u0111\u1ec3 Ch\u1ec9nh s\u1eeda, Chuy\u1ec3n \u0111\u1ed5i, Tr\u1ed9n, T\u00e1ch v\u00e0 N\u00e9n c\u00e1c t\u1ec7p PDF. \u0110\u01b0\u1ee3c t\u00edch h\u1ee3p v\u1edbi Gmail."
+    },
+    "appName": {
+        "message": "Smallpdf - Ch\u1ec9nh s\u1eeda, N\u00e9n v\u00e0 Chuy\u1ec3n \u0111\u1ed5i PDF"
+    },
+    "compress": {
+        "message": "N\u00e9n"
+    },
+    "converter": {
+        "message": "Chuy\u1ec3n \u0111\u1ed5i"
+    },
+    "delete": {
+        "message": "X\u00f3a Trang"
+    },
+    "downloadCta": {
+        "message": "T\u1ea3i v\u1ec1 ngay"
+    },
+    "edit": {
+        "message": "Ch\u1ec9nh s\u1eeda"
+    },
+    "excel": {
+        "message": "Excel sang PDF"
+    },
+    "extract": {
+        "message": "PDF sang JPG"
+    },
+    "fileIsReady": {
+        "message": "T\u1ec7p tin c\u1ee7a b\u1ea1n \u0111\u00e3 s\u1eb5n s\u00e0ng"
+    },
+    "file_type_excel": {
+        "message": "Excel"
+    },
+    "file_type_generic_image": {
+        "message": "H\u00ecnh \u1ea3nh"
+    },
+    "file_type_generic_image_plural": {
+        "message": "H\u00ecnh \u1ea3nh"
+    },
+    "file_type_generic_office": {
+        "message": "Office"
+    },
+    "file_type_pdf_plural": {
+        "message": "PDF"
+    },
+    "file_type_powerpoint_long": {
+        "message": "PowerPoint"
+    },
+    "file_type_word": {
+        "message": "Word"
+    },
+    "gmail_converter_action_add_attachment_compress": {
+        "message": "N\u00e9n v\u00e0 \u0111\u00ednh k\u00e8m {file_type} t\u1ec7p"
+    },
+    "gmail_converter_action_dismiss": {
+        "message": "B\u1ecf qua"
+    },
+    "gmail_converter_error_processing_generic": {
+        "message": "Kh\u00f4ng th\u1ec3 x\u1eed l\u00fd t\u00e0i li\u1ec7u n\u00e0y."
+    },
+    "gmail_converter_error_unsupported_file_type": {
+        "message": "Lo\u1ea1i t\u1ec7p n\u00e0y kh\u00f4ng \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3."
+    },
+    "gmail_converter_intro_action_confirm": {
+        "message": "H\u00e3y th\u1eed xem!"
+    },
+    "gmail_converter_intro_description": {
+        "message": "{bang} Gi\u1ea3m k\u00edch th\u01b0\u1edbc t\u1ec7p \u0111\u00ednh k\u00e8m {file_type} c\u1ee7a b\u1ea1n b\u1eb1ng {app_name}."
+    },
+    "gmail_converter_status_processing_compress": {
+        "message": "\u0110ang n\u00e9n..."
+    },
+    "gmail_converter_status_processing_generic": {
+        "message": "\u0110ang x\u1eed l\u00fd..."
+    },
+    "gmail_converter_status_uploading": {
+        "message": "\u0110ang t\u1ea3i l\u00ean..."
+    },
+    "gmail_intro_action_confirm": {
+        "message": "OK, \u0111\u00e3 hi\u1ec3u"
+    },
+    "gmail_intro_action_next": {
+        "message": "Ti\u1ebfp theo"
+    },
+    "gmail_intro_compress": {
+        "message": "Gi\u1ea3m k\u00edch th\u01b0\u1edbc t\u1ec7p \u0111\u00ednh k\u00e8m {input_format} c\u1ee7a b\u1ea1n tr\u1ef1c ti\u1ebfp trong Gmail"
+    },
+    "gmail_intro_convert_attachments": {
+        "message": "Chuy\u1ec3n \u0111\u1ed5i t\u1ec7p \u0111\u00ednh k\u00e8m {input_format} th\u00e0nh {output_format_word}, {output_format_excel}, {output_format_ppt} v\u00e0 {output_format_jpg}"
+    },
+    "gmail_intro_features_convert_images": {
+        "message": "Chuy\u1ec3n \u0111\u1ed5i {input_file_types_list} t\u1ec7p tin sang {output_file_type}."
+    },
+    "gmail_intro_features_convert_pdf": {
+        "message": "Chuy\u1ec3n \u0111\u1ed5i {input_file_type} \u0111\u00ednh k\u00e8m sang {output_file_types_list} t\u1ec7p tin."
+    },
+    "gmail_intro_lead": {
+        "message": "{bang} Chuy\u1ec3n \u0111\u1ed5i c\u00e1c \u0111\u00ednh k\u00e8m Gmail v\u1edbi {app_name}"
+    },
+    "gmail_intro_new": {
+        "message": "M\u1edaI!"
+    },
+    "job_status_uploading": {
+        "message": "\u0110ang t\u1ea3i l\u00ean..."
+    },
+    "jpg": {
+        "message": "JPG sang PDF"
+    },
+    "list_conjunction_long_end": {
+        "message": "{0} v\u00e0 {1}"
+    },
+    "list_conjunction_long_middle": {
+        "message": "{0}, {1}"
+    },
+    "list_conjunction_long_pair": {
+        "message": "{0} v\u00e0 {1}"
+    },
+    "list_conjunction_long_start": {
+        "message": "{0}, {1}"
+    },
+    "list_disjunction_long_end": {
+        "message": "{0} ho\u1eb7c {1}"
+    },
+    "list_disjunction_long_middle": {
+        "message": "{0}, {1}"
+    },
+    "list_disjunction_long_pair": {
+        "message": "{0} ho\u1eb7c {1}"
+    },
+    "list_disjunction_long_start": {
+        "message": "{0}, {1}"
+    },
+    "merge": {
+        "message": "G\u1ed9p"
+    },
+    "noInternetConnection": {
+        "message": "Kh\u00f4ng c\u00f3 k\u1ebft n\u1ed1i internet"
+    },
+    "options_extension_version": {
+        "message": "Ph\u1ea7n m\u1edf r\u1ed9ng {browser_name} \/ {version}"
+    },
+    "options_setting_gmail_integration_description": {
+        "message": "T\u00edch h\u1ee3p Gmail cho ph\u00e9p b\u1ea1n chuy\u1ec3n \u0111\u1ed5i c\u00e1c \u0111\u00ednh k\u00e8m email t\u1eeb v\u00e0 sang {file_type}."
+    },
+    "options_setting_gmail_integration_title": {
+        "message": "T\u00edch h\u1ee3p Gmail"
+    },
+    "options_setting_local_files_description": {
+        "message": "Cho ph\u00e9p {app_name} truy c\u1eadp URL t\u1ec7p tin \u0111\u1ecba ph\u01b0\u01a1ng c\u1ee7a b\u1ea1n \u0111\u1ec3 m\u1edf {file_types} trong {browser_name}."
+    },
+    "options_setting_local_files_title": {
+        "message": "B\u1eadt ph\u1ea7n m\u1edf r\u1ed9ng {app_name} trong c\u00e1c t\u1ec7p tin \u0111\u1ecba ph\u01b0\u01a1ng"
+    },
+    "options_setting_status_disabled": {
+        "message": "T\u1eaft"
+    },
+    "pdf_to_excel": {
+        "message": "PDF sang Excel"
+    },
+    "pdf_to_ppt": {
+        "message": "PDF sang PPT"
+    },
+    "pdf_to_word": {
+        "message": "PDF sang Word"
+    },
+    "ppt": {
+        "message": "PPT sang PDF"
+    },
+    "processingFailedMessage": {
+        "message": "Xin l\u1ed7i, \u0111\u00e3 x\u1ea3y ra s\u1ef1 c\u1ed1 khi x\u1eed l\u00fd t\u1ec7p tin c\u1ee7a b\u1ea1n"
+    },
+    "processingFailedTitle": {
+        "message": "X\u1eed l\u00fd kh\u00f4ng th\u00e0nh c\u00f4ng"
+    },
+    "protect": {
+        "message": "B\u1ea3o v\u1ec7"
+    },
+    "rotate": {
+        "message": "Xoay"
+    },
+    "sign": {
+        "message": "K\u00fd t\u00ean"
+    },
+    "split": {
+        "message": "Ph\u00e2n chia"
+    },
+    "tools": {
+        "message": "C\u00f4ng c\u1ee5"
+    },
+    "unlock": {
+        "message": "M\u1edf kh\u00f3a"
+    },
+    "uploadFailed": {
+        "message": "Xin l\u1ed7i b\u1ea1n \u0111\u00e3 t\u1ea3i l\u00ean kh\u00f4ng th\u00e0nh c\u00f4ng"
+    },
+    "word": {
+        "message": "Word sang PDF"
+    },
+    "download": {
+        "message": "Tải xuống"
+    },
+    "print": {
+        "message": "In"
+    },
+    "viewer_fit_to_page": {
+        "message": "Vừa với trang"
+    },
+    "viewer_fit_to_width": {
+        "message": "Vừa với chiều rộng"
+    },
+    "viewer_next_page": {
+        "message": "Trang tiếp theo"
+    },
+    "viewer_of_pages": {
+        "message": "/ {total_pages}"
+    },
+    "viewer_previous_page": {
+        "message": "Trang trước"
+    },
+    "viewer_rotate_clockwise": {
+        "message": "Xoay theo chiều kim đồng hồ"
+    },
+    "viewer_zoom_in": {
+        "message": "Phóng to"
+    },
+    "viewer_zoom_out": {
+        "message": "Thu nhỏ"
+    },
+    "beta_settings_title":{
+        "message": "Chương trình Thử nghiệm Beta Smallpdf"
+    },
+    "beta_settings_description":{
+        "message": "Là một thành viên của chương trình thử nghiệm beta Smallpdf, bạn sẽ được truy cập độc quyền các tính năng mới nhất của chúng tôi—thậm chí trước khi chúng tôi giới thiệu những tính năng này với công chúng."
+    },
+    "file_schema_access_title": {
+        "message": "Chỉ với 3 bước đơn giản và bạn đã xong!"
+    },
+    "file_schema_access_description": {
+        "message": "Để tận dụng hết các công cụ Smallpdf, vui lòng bật cấp quyền trong cài đặt Tiện ích Mở rộng Chrome để cho các công cụ Smallpdf truy cập vào các tệp cục bộ của bạn."
+    },
+    "file_schema_access_step1": {
+        "message": "Đi đến trang cài đặt Tiện ích Mở rộng Chrome Smallpdf."
+    },
+    "file_schema_access_step2": {
+        "message": "Đặt nút đảo chiều sang ‘{option}’ sang ‘bật’."
+    },
+    "file_schema_access_step3": {
+        "message": "Bạn đã cài đặt xong! Hãy nhớ rằng bạn có thể thay đổi các ưu tiên cài đặt bất cứ lúc nào."
+    },
+    "file_schema_access_chrome_option": {
+        "message": "Cho phép truy cập vào các URL của tệp"
+    },
+    "file_schema_access_select": {
+        "message": "Hoặc chọn lại tệp"
+    },
+    "file_schema_access_select_button": {
+        "message": "chọn tệp"
+    },
+    "password_modal_title": {
+        "message": "Cần có mật khẩu"
+    },
+    "password_modal_description": {
+        "message": "Tài liệu này được bảo vệ bằng mật khẩu. Vui lòng nhập mật khẩu để mở khóa."
+    },
+    "password_modal_placeholder": {
+        "message": "Nhập mật khẩu"
+    },
+    "password_modal_incorrect": {
+        "message": "Mật khẩu không chính xác"
+    },
+    "password_modal_submit": {
+        "message": "GỬI"
+    },
+    "viewer_error_invalid_title": {
+        "message": "Ôi trời! Dường như tệp của bạn không ở định dạng PDF hoặc bị hỏng."
+    },
+    "viewer_error_invalid_description": {
+        "message": "Vui lòng kiểm tra xem tệp của bạn có phải ở định dạng PDF chuẩn không và thử lại."
+    },
+    "viewer_error_action": {
+        "message": "TẢI LÊN TỆP PDF MỚI"
+    },
+    "viewer_error_unknown_title": {
+        "message": "Úi! Đã xảy ra lỗi không xác định!"
+    },
+    "viewer_error_unknown_description": {
+        "message": "Xin lỗi vì sự bất tiện này. 😔 Đội ngũ kỹ thuật của chúng tôi đang xem xét vấn đề này!"
+    }
+}

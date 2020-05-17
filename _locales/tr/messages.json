@@ -1,0 +1,305 @@
+{
+    "action_app_website": {
+        "message": "{app_name} \u0130nternet Sitesi"
+    },
+    "action_browser_settings": {
+        "message": "{browser_name} Ayarlar\u0131"
+    },
+    "action_chrome_web_store": {
+        "message": "{browser_name} \u0130nternet Ma\u011fazas\u0131"
+    },
+    "action_convert_to": {
+        "message": "{file_type} dosyas\u0131na d\u00f6n\u00fc\u015ft\u00fcr"
+    },
+    "action_manage_settings": {
+        "message": "Ayarlar\u0131 y\u00f6net"
+    },
+    "appDesc": {
+        "message": "PDF Dosyalar\u0131n\u0131 D\u00fczenlemek, D\u00f6n\u00fc\u015ft\u00fcrmek, Birle\u015ftirmek, B\u00f6lmek ve S\u0131k\u0131\u015ft\u0131rmak i\u00e7in Kullan\u0131m\u0131 Kolay PDF ara\u00e7lar\u0131. Gmail ile entegredir."
+    },
+    "appName": {
+        "message": "Smallpdf - PDF D\u00fczenle, S\u0131k\u0131\u015ft\u0131r ve D\u00f6n\u00fc\u015ft\u00fcr"
+    },
+    "compress": {
+        "message": "S\u0131k\u0131\u015ft\u0131r"
+    },
+    "converter": {
+        "message": "D\u00f6n\u00fc\u015ft\u00fcr"
+    },
+    "delete": {
+        "message": "Sayfalar\u0131 sil"
+    },
+    "downloadCta": {
+        "message": "Onu \u015fimdi indir"
+    },
+    "edit": {
+        "message": "D\u00fczenle"
+    },
+    "excel": {
+        "message": "Excel'den PDF'e"
+    },
+    "extract": {
+        "message": "PDF'ten JPG'e"
+    },
+    "fileIsReady": {
+        "message": "Dosyan haz\u0131r"
+    },
+    "file_type_excel": {
+        "message": "Excel"
+    },
+    "file_type_generic_image": {
+        "message": "G\u00f6r\u00fcnt\u00fc"
+    },
+    "file_type_generic_image_plural": {
+        "message": "G\u00f6r\u00fcnt\u00fcler"
+    },
+    "file_type_generic_office": {
+        "message": "B\u00fcro"
+    },
+    "file_type_pdf_plural": {
+        "message": "PDF'ler"
+    },
+    "file_type_powerpoint_long": {
+        "message": "PowerPoint"
+    },
+    "file_type_word": {
+        "message": "Word"
+    },
+    "gmail_converter_action_add_attachment_compress": {
+        "message": "{file_type} dosyalar\u0131n\u0131 s\u0131k\u0131\u015ft\u0131r ve ekle"
+    },
+    "gmail_converter_action_dismiss": {
+        "message": "Reddet"
+    },
+    "gmail_converter_error_processing_generic": {
+        "message": "Bu dosya i\u015flenemedi"
+    },
+    "gmail_converter_error_unsupported_file_type": {
+        "message": "Bu dosya t\u00fcr\u00fc desteklenmiyor."
+    },
+    "gmail_converter_intro_action_confirm": {
+        "message": "Haydi dene!"
+    },
+    "gmail_converter_intro_description": {
+        "message": "{bang}{file_type} eklerinizin boyutunu {app_name} ile azalt\u0131n."
+    },
+    "gmail_converter_status_processing_compress": {
+        "message": "S\u0131k\u0131\u015ft\u0131r\u0131l\u0131yor..."
+    },
+    "gmail_converter_status_processing_generic": {
+        "message": "\u0130\u015fleniyor..."
+    },
+    "gmail_converter_status_uploading": {
+        "message": "Y\u00fckleniyor..."
+    },
+    "gmail_intro_action_confirm": {
+        "message": "Tamam, anlad\u0131m"
+    },
+    "gmail_intro_action_next": {
+        "message": "Sonraki"
+    },
+    "gmail_intro_compress": {
+        "message": "{input_format} eklerinizin boyutunu do\u011frudan Gmail'de d\u00fc\u015f\u00fcr\u00fcn"
+    },
+    "gmail_intro_convert_attachments": {
+        "message": "{input_format} ekleri {output_format_word}, {output_format_excel}, {output_format_ppt} ve {output_format_jpg} bi\u00e7imine d\u00f6n\u00fc\u015ft\u00fcr\u00fcn"
+    },
+    "gmail_intro_features_convert_images": {
+        "message": "{input_file_types_list} dosyalar\u0131n\u0131 {output_file_type} dosyalar\u0131na d\u00f6n\u00fc\u015ft\u00fcr."
+    },
+    "gmail_intro_features_convert_pdf": {
+        "message": "{input_file_type} eklerini {output_file_types_list} dosyalar\u0131na d\u00f6n\u00fc\u015ft\u00fcr."
+    },
+    "gmail_intro_lead": {
+        "message": "{bang} Gmail eklerini {app_name} ile d\u00f6n\u00fc\u015ft\u00fcr"
+    },
+    "gmail_intro_new": {
+        "message": "YEN\u0130!"
+    },
+    "job_status_uploading": {
+        "message": "Kar\u015f\u0131ya y\u00fckleniyor..."
+    },
+    "jpg": {
+        "message": "JPG'ten PDF'e"
+    },
+    "list_conjunction_long_end": {
+        "message": "{0} ve {1}"
+    },
+    "list_conjunction_long_middle": {
+        "message": "{0}, {1}"
+    },
+    "list_conjunction_long_pair": {
+        "message": "{0} ve {1}"
+    },
+    "list_conjunction_long_start": {
+        "message": "{0}, {1}"
+    },
+    "list_disjunction_long_end": {
+        "message": "{0}, ya da {1}"
+    },
+    "list_disjunction_long_middle": {
+        "message": "{0}, {1}"
+    },
+    "list_disjunction_long_pair": {
+        "message": "{0} ya da {1}"
+    },
+    "list_disjunction_long_start": {
+        "message": "{0}, {1}"
+    },
+    "merge": {
+        "message": "Birle\u015ftir"
+    },
+    "noInternetConnection": {
+        "message": "\u0130nternet ba\u011flant\u0131s\u0131 yok"
+    },
+    "options_extension_version": {
+        "message": "{browser_name} Eklentisi \/ {version}"
+    },
+    "options_setting_gmail_integration_description": {
+        "message": "Gmail entegrasyonu e-posta eklerini {file_type} dosyalar\u0131na\/dosyalar\u0131ndan d\u00f6n\u00fc\u015ft\u00fcrmene imkan tan\u0131r."
+    },
+    "options_setting_gmail_integration_title": {
+        "message": "Gmail Entegrasyonu"
+    },
+    "options_setting_local_files_description": {
+        "message": "{file_types} dosyalar\u0131n\u0131n {browser_name} ile a\u00e7\u0131lmas\u0131na imkan tan\u0131mak i\u00e7in {app_name} uygulamas\u0131n\u0131n yerel dosya URL'lerine eri\u015fimine izin ver."
+    },
+    "options_setting_local_files_title": {
+        "message": "Yerel dosyalarda {app_name} eklentisini etkinle\u015ftir"
+    },
+    "options_setting_status_disabled": {
+        "message": "Devre d\u0131\u015f\u0131 b\u0131rak\u0131ld\u0131"
+    },
+    "pdf_to_excel": {
+        "message": "PDF'ten Excel'e"
+    },
+    "pdf_to_ppt": {
+        "message": "PDF'ten PPT'ye"
+    },
+    "pdf_to_word": {
+        "message": "PDF'ten Word'a"
+    },
+    "ppt": {
+        "message": "PPT'den PDF'e"
+    },
+    "processingFailedMessage": {
+        "message": "\u00dczg\u00fcn\u00fcz, dosyan\u0131 i\u015flerken bir sorun olu\u015ftu"
+    },
+    "processingFailedTitle": {
+        "message": "\u0130\u015fleme ba\u015far\u0131s\u0131z oldu"
+    },
+    "protect": {
+        "message": "Koru"
+    },
+    "rotate": {
+        "message": "D\u00f6nd\u00fcr"
+    },
+    "sign": {
+        "message": "\u0130mzala"
+    },
+    "split": {
+        "message": "Ay\u0131r"
+    },
+    "tools": {
+        "message": "Ara\u00e7lar"
+    },
+    "unlock": {
+        "message": "Kilidini a\u00e7"
+    },
+    "uploadFailed": {
+        "message": "\u00dczg\u00fcn\u00fcz, kar\u015f\u0131ya y\u00fcklemen ba\u015far\u0131s\u0131z oldu"
+    },
+    "word": {
+        "message": "Word'ten PDF'e"
+    },
+    "download": {
+        "message": "İndir"
+    },
+    "print": {
+        "message": "Yazdır"
+    },
+    "viewer_fit_to_page": {
+        "message": "Sayfaya sığdır"
+    },
+    "viewer_fit_to_width": {
+        "message": "Genişliğe sığdır"
+    },
+    "viewer_next_page": {
+        "message": "Sonraki sayfa"
+    },
+    "viewer_of_pages": {
+        "message": "/ {total_pages}"
+    },
+    "viewer_previous_page": {
+        "message": "Önceki sayfa"
+    },
+    "viewer_rotate_clockwise": {
+        "message": "Saat yönünde döndür"
+    },
+    "viewer_zoom_in": {
+        "message": "Yakınlaştır"
+    },
+    "viewer_zoom_out": {
+        "message": "Uzaklaştır"
+    },
+    "beta_settings_title":{
+        "message": "Smallpdf Beta Test Programı"
+    },
+    "beta_settings_description":{
+        "message": "Smallpdf’in beta test programının bir üyesi olarak, herkese açık hale getirmeden önce en son özelliklerimize özel erişim elde edersiniz."
+    },
+    "file_schema_access_title": {
+        "message": "Sadece 3 kolay adım ve işiniz bitti!"
+    },
+    "file_schema_access_description": {
+        "message": "Smallpdf araçlarından en iyi şekilde yararlanmak için lütfen Smallpdf araçlarına yerel dosyalarınıza erişim izni vermek üzere Chrome Uzantı ayarlarında izinleri etkinleştirin."
+    },
+    "file_schema_access_step1": {
+        "message": "Smallpdf Chrome Uzantı ayarları sayfasına gidin."
+    },
+    "file_schema_access_step2": {
+        "message": "'{option}' seçeneğini 'açık' olarak ayarlayın."
+    },
+    "file_schema_access_step3": {
+        "message": "Artık hazırsınız! Unutmayın, ayar tercihlerinizi istediğiniz zaman değiştirebilirsiniz."
+    },
+    "file_schema_access_chrome_option": {
+        "message": "Dosya URL'lerine erişime izin ver"
+    },
+    "file_schema_access_select": {
+        "message": "Veya dosyayı tekrar seç"
+    },
+    "file_schema_access_select_button": {
+        "message": "dosya seç"
+    },
+    "password_modal_title": {
+        "message": "Parola gerekli"
+    },
+    "password_modal_description": {
+        "message": "Bu belge parola-korumalı. Kilidi açmak için lütfen parolayı girin."
+    },
+    "password_modal_placeholder": {
+        "message": "Parola girin"
+    },
+    "password_modal_incorrect": {
+        "message": "Yanlış parola"
+    },
+    "password_modal_submit": {
+        "message": "GÖNDER"
+    },
+    "viewer_error_invalid_title": {
+        "message": "Eyvah! Görünüşe göre dosyanız PDF değil veya bozulmuş."
+    },
+    "viewer_error_invalid_description": {
+        "message": "Lütfen dosyanızın geçerli bir PDF olduğunu doğrulayın ve tekrar deneyin."
+    },
+    "viewer_error_action": {
+        "message": "YENİ PDF YÜKLE"
+    },
+    "viewer_error_unknown_title": {
+        "message": "Hay aksi! Bilinmeyen bir hata oluştu!"
+    },
+    "viewer_error_unknown_description": {
+        "message": "Rahatsızlıktan dolayı özür dileriz. 😔 Teknik ekibimiz üzerinde çalışıyor!"
+    }
+}

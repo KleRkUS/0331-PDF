@@ -1,0 +1,27 @@
+Content
+
+a = greek
+b = jam
+c = assylym
+d = traitor
+e = ancestor
+f = doll
+g = nasty
+h = octagon
+i = counter
+j = myNewFunc
+k = loadedVar
+l = nevada
+m = washing
+n = person
+o = beerSet
+p = queueR
+r = faceID
+s = ugly
+t = chicken 
+u = mommy
+v = barbara
+w = james
+x = louise
+y = dodo
+z = pizza

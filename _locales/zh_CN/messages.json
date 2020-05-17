@@ -1,0 +1,305 @@
+{
+    "action_app_website": {
+        "message": "{app_name}\u7f51\u7ad9"
+    },
+    "action_browser_settings": {
+        "message": "{browser_name}\u8bbe\u7f6e"
+    },
+    "action_chrome_web_store": {
+        "message": "{browser_name}\u7f51\u7edc\u5e94\u7528\u5546\u5e97"
+    },
+    "action_convert_to": {
+        "message": "\u8f6c\u6362\u81f3{file_type}"
+    },
+    "action_manage_settings": {
+        "message": "\u7ba1\u7406\u8bbe\u7f6e"
+    },
+    "appDesc": {
+        "message": "\u8f7b\u677e\u6613\u7528\u7684PDF\u5de5\u5177\uff0c\u53ef\u7528\u4e8e\u7f16\u8f91\u3001\u8f6c\u6362\u3001\u5408\u5e76\u3001\u62c6\u5206\u548c\u538b\u7f29PDF\u6587\u4ef6\u3002\u53ef\u4e0eGmail\u6574\u5408\u3002"
+    },
+    "appName": {
+        "message": "Smallpdf - \u7f16\u8f91\u3001\u538b\u7f29\u4e0e\u8f6c\u6362PDF\u6587\u4ef6"
+    },
+    "compress": {
+        "message": "\u538b\u7f29"
+    },
+    "converter": {
+        "message": "\u8f6c\u6362"
+    },
+    "delete": {
+        "message": "\u5220\u9664\u9875\u9762"
+    },
+    "downloadCta": {
+        "message": "\u7acb\u5373\u4e0b\u8f7d"
+    },
+    "edit": {
+        "message": "\u7f16\u8f91"
+    },
+    "excel": {
+        "message": "Excel \u81f3 PDF"
+    },
+    "extract": {
+        "message": "PDF \u81f3 JPG"
+    },
+    "fileIsReady": {
+        "message": "\u60a8\u7684\u6587\u4ef6\u5df2\u5c31\u7eea"
+    },
+    "file_type_excel": {
+        "message": "Excel"
+    },
+    "file_type_generic_image": {
+        "message": "\u56fe\u50cf"
+    },
+    "file_type_generic_image_plural": {
+        "message": "\u56fe\u50cf"
+    },
+    "file_type_generic_office": {
+        "message": "Office"
+    },
+    "file_type_pdf_plural": {
+        "message": "PDF"
+    },
+    "file_type_powerpoint_long": {
+        "message": "PowerPoint"
+    },
+    "file_type_word": {
+        "message": "Word"
+    },
+    "gmail_converter_action_add_attachment_compress": {
+        "message": "\u538b\u7f29\u4e0e\u8d34\u9644{file_type}\u6587\u4ef6"
+    },
+    "gmail_converter_action_dismiss": {
+        "message": "\u5173\u95ed"
+    },
+    "gmail_converter_error_processing_generic": {
+        "message": "\u65e0\u6cd5\u5904\u7406\u6b64\u6587\u6863\u3002"
+    },
+    "gmail_converter_error_unsupported_file_type": {
+        "message": "\u4e0d\u652f\u6301\u6b64\u6587\u4ef6\u7c7b\u578b\u3002"
+    },
+    "gmail_converter_intro_action_confirm": {
+        "message": "\u8bd5\u8bd5\u5427\uff01"
+    },
+    "gmail_converter_intro_description": {
+        "message": "{bang} \u501f\u52a9{app_name}\u7f29\u5c0f{file_type}\u9644\u4ef6\u7684\u5c3a\u5bf8\u3002"
+    },
+    "gmail_converter_status_processing_compress": {
+        "message": "\u6b63\u5728\u538b\u7f29\u2026"
+    },
+    "gmail_converter_status_processing_generic": {
+        "message": "\u6b63\u5728\u5904\u7406\u2026"
+    },
+    "gmail_converter_status_uploading": {
+        "message": "\u6b63\u5728\u4e0a\u4f20\u2026"
+    },
+    "gmail_intro_action_confirm": {
+        "message": "\u597d\u7684\uff0c\u660e\u767d\u4e86"
+    },
+    "gmail_intro_action_next": {
+        "message": "\u4e0b\u4e00\u6b65"
+    },
+    "gmail_intro_compress": {
+        "message": "\u76f4\u63a5\u5728Gmail\u4e2d\u51cf\u5c0f{input_format}\u9644\u4ef6\u7684\u5927\u5c0f"
+    },
+    "gmail_intro_convert_attachments": {
+        "message": "\u628a{input_format}\u9644\u4ef6\u8f6c\u6362\u4e3a{output_format_word}\u3001{output_format_excel}\u3001{output_format_ppt}\u548c{output_format_jpg}"
+    },
+    "gmail_intro_features_convert_images": {
+        "message": "\u5c06{input_file_types_list}\u6587\u4ef6\u8f6c\u6362\u4e3a{output_file_type}\u3002"
+    },
+    "gmail_intro_features_convert_pdf": {
+        "message": "\u5c06{input_file_type}\u9644\u4ef6\u8f6c\u6362\u4e3a{output_file_types_list}\u6587\u4ef6\u3002"
+    },
+    "gmail_intro_lead": {
+        "message": "{bang}\u4f7f\u7528{app_name}\u8f6c\u6362Gmail\u9644\u4ef6"
+    },
+    "gmail_intro_new": {
+        "message": "\u5168\u65b0\uff01"
+    },
+    "job_status_uploading": {
+        "message": "\u6b63\u5728\u4e0a\u4f20\u2026"
+    },
+    "jpg": {
+        "message": "JPG \u81f3 PDF"
+    },
+    "list_conjunction_long_end": {
+        "message": "{0}\u548c{1}"
+    },
+    "list_conjunction_long_middle": {
+        "message": "{0}\u3001{1}"
+    },
+    "list_conjunction_long_pair": {
+        "message": "{0}\u548c{1}"
+    },
+    "list_conjunction_long_start": {
+        "message": "{0}\u3001{1}"
+    },
+    "list_disjunction_long_end": {
+        "message": "{0}\u6216{1}"
+    },
+    "list_disjunction_long_middle": {
+        "message": "{0}\u3001{1}"
+    },
+    "list_disjunction_long_pair": {
+        "message": "{0}\u6216{1}"
+    },
+    "list_disjunction_long_start": {
+        "message": "{0}\u3001{1}"
+    },
+    "merge": {
+        "message": "\u5408\u5e76"
+    },
+    "noInternetConnection": {
+        "message": "\u65e0\u7f51\u7edc\u8fde\u63a5"
+    },
+    "options_extension_version": {
+        "message": "{browser_name}\u6269\u5c55\u7a0b\u5e8f\/ {version}"
+    },
+    "options_setting_gmail_integration_description": {
+        "message": "Gmail\u6574\u5408\u529f\u80fd\u8ba9\u60a8\u53ef\u4ee5\u5c06\u90ae\u4ef6\u9644\u4ef6\u8f6c\u6362\u4e3a{file_type}\u6216\u8fdb\u884c\u53cd\u5411\u64cd\u4f5c\u3002"
+    },
+    "options_setting_gmail_integration_title": {
+        "message": "Gmail\u6574\u5408\u529f\u80fd"
+    },
+    "options_setting_local_files_description": {
+        "message": "\u7ed9\u4e88{app_name}\u672c\u5730\u6587\u4ef6URL\u7684\u8bbf\u95ee\u6743\u9650\uff0c\u4f7f{file_types}\u53ef\u5728{browser_name}\u4e2d\u6253\u5f00\u3002"
+    },
+    "options_setting_local_files_title": {
+        "message": "\u5bf9\u672c\u5730\u6587\u4ef6\u542f\u7528{app_name}\u6269\u5c55\u7a0b\u5e8f"
+    },
+    "options_setting_status_disabled": {
+        "message": "\u7981\u7528"
+    },
+    "pdf_to_excel": {
+        "message": "PDF \u81f3 Excel"
+    },
+    "pdf_to_ppt": {
+        "message": "PDF \u81f3 PPT"
+    },
+    "pdf_to_word": {
+        "message": "PDF \u81f3 Word"
+    },
+    "ppt": {
+        "message": "PPT \u81f3 PDF"
+    },
+    "processingFailedMessage": {
+        "message": "\u62b1\u6b49\uff0c\u5904\u7406\u60a8\u7684\u6587\u4ef6\u65f6\u9047\u5230\u4e86\u95ee\u9898"
+    },
+    "processingFailedTitle": {
+        "message": "\u5904\u7406\u5931\u8d25"
+    },
+    "protect": {
+        "message": "\u52a0\u5bc6"
+    },
+    "rotate": {
+        "message": "\u65cb\u8f6c"
+    },
+    "sign": {
+        "message": "\u7b7e\u540d"
+    },
+    "split": {
+        "message": "\u5207\u5206"
+    },
+    "tools": {
+        "message": "\u5de5\u5177"
+    },
+    "unlock": {
+        "message": "\u89e3\u9501"
+    },
+    "uploadFailed": {
+        "message": "\u62b1\u6b49\uff0c\u4e0a\u4f20\u5931\u8d25"
+    },
+    "word": {
+        "message": "Word \u81f3 PDF"
+    },
+    "download": {
+        "message": "下载"
+    },
+    "print": {
+        "message": "打印"
+    },
+    "viewer_fit_to_page": {
+        "message": "适合页面"
+    },
+    "viewer_fit_to_width": {
+        "message": "适合宽度"
+    },
+    "viewer_next_page": {
+        "message": "下一页"
+    },
+    "viewer_of_pages": {
+        "message": "of {total_pages}"
+    },
+    "viewer_previous_page": {
+        "message": "上一页"
+    },
+    "viewer_rotate_clockwise": {
+        "message": "顺时针旋转"
+    },
+    "viewer_zoom_in": {
+        "message": "放大"
+    },
+    "viewer_zoom_out": {
+        "message": "缩小"
+    },
+    "beta_settings_title":{
+        "message": "Smallpdf Beta测试计划"
+    },
+    "beta_settings_description":{
+        "message": "您已经加入Smallpdf Beta测试计划，享有独家特权，可以在我们的最新功能正式公开之前抢先试用。"
+    },
+    "file_schema_access_title": {
+        "message": "只需 3 个简单的步骤，即可完成设置！"
+    },
+    "file_schema_access_description": {
+        "message": "要充分利用 Smallpdf 工具，请在 Chrome 扩展程序设置中启用权限，以授予 Smallpdf 工具访问本地文件的权限。"
+    },
+    "file_schema_access_step1": {
+        "message": "转到 Smallpdf Chrome 扩展程序设置页面。"
+    },
+    "file_schema_access_step2": {
+        "message": "将“{option}”设置为“打开”。"
+    },
+    "file_schema_access_step3": {
+        "message": "全部搞定！别担心，您可以随时更改设置首选项。"
+    },
+    "file_schema_access_chrome_option": {
+        "message": "允许访问文件网址"
+    },
+    "file_schema_access_select": {
+        "message": "或重新选择文件"
+    },
+    "file_schema_access_select_button": {
+        "message": "选择文件"
+    },
+    "password_modal_title": {
+        "message": "密码不可为空"
+    },
+    "password_modal_description": {
+        "message": "本文件有加密。请输入密码解锁。"
+    },
+    "password_modal_placeholder": {
+        "message": "输入密码"
+    },
+    "password_modal_incorrect": {
+        "message": "密码错误"
+    },
+    "password_modal_submit": {
+        "message": "提交"
+    },
+    "viewer_error_invalid_title": {
+        "message": "哎呀！您的文件似乎不是PDF格式，或已损坏。"
+    },
+    "viewer_error_invalid_description": {
+        "message": "请检查您的文件是否为有效的PDF格式，然后重试。"
+    },
+    "viewer_error_action": {
+        "message": "上传新的PDF"
+    },
+    "viewer_error_unknown_title": {
+        "message": "糟糕！出现未知错误！"
+    },
+    "viewer_error_unknown_description": {
+        "message": "抱歉给您带来不便。😔 我们的技术人员正在努力解决！"
+    }
+}

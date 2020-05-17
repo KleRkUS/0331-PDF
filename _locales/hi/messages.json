@@ -1,0 +1,305 @@
+{
+    "action_app_website": {
+        "message": "{app_name} \u0935\u0947\u092c\u0938\u093e\u0907\u091f"
+    },
+    "action_browser_settings": {
+        "message": "{browser_name} \u0938\u0947\u091f\u093f\u0902\u0917\u094d\u200d\u0938"
+    },
+    "action_chrome_web_store": {
+        "message": "{browser_name} \u0935\u0947\u092c \u0938\u094d\u200d\u091f\u094b\u0930"
+    },
+    "action_convert_to": {
+        "message": "{file_type} \u092e\u0947\u0902 \u0915\u0928\u0935\u0930\u094d\u091f \u0915\u0930\u0947\u0902"
+    },
+    "action_manage_settings": {
+        "message": "\u0938\u0947\u091f\u093f\u0902\u0917\u094d\u200d\u0938 \u092a\u094d\u0930\u092c\u0902\u0927\u093f\u0924 \u0915\u0930\u0947\u0902"
+    },
+    "appDesc": {
+        "message": "\u092a\u0940\u0921\u0940\u090f\u092b \u092b\u093e\u0907\u0932\u094b\u0902 \u0915\u094b \u0938\u0902\u092a\u093e\u0926\u0928, \u0915\u0928\u0935\u0930\u094d\u091f \u0915\u0930\u0928\u0947, \u092e\u0930\u094d\u091c, \u0935\u093f\u0916\u0902\u0921\u093f\u0924 \u0915\u0930\u0928\u0947, \u0914\u0930 \u0915\u0902\u092a\u094d\u0930\u0947\u0938 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u092f\u094b\u0917 \u0906\u0938\u093e\u0928 \u092a\u0940\u0921\u0940\u090f\u092b \u091f\u0942\u0932\u094d\u0938\u0964 \u091c\u0940\u092e\u0947\u0932 \u0915\u0947 \u0938\u093e\u0925 \u090f\u0915\u0940\u0915\u0943\u0924\u0964"
+    },
+    "appName": {
+        "message": "Smallpdf-\u092a\u0940\u0921\u0940\u090f\u092b \u092b\u093e\u0907\u0932 \u0938\u0902\u092a\u093e\u0926\u0928, \u0915\u0902\u092a\u094d\u0930\u0947\u0938 \u0935 \u0915\u0928\u0935\u0930\u094d\u091f"
+    },
+    "compress": {
+        "message": "\u0938\u093f\u0915\u094b\u0921\u093c\u0928\u093e"
+    },
+    "converter": {
+        "message": "\u0915\u0928\u0935\u0930\u094d\u091f \u0915\u0930\u0947\u0902"
+    },
+    "delete": {
+        "message": "\u092a\u0943\u0937\u094d\u200d\u0920\u094b\u0902 \u0915\u094b \u0939\u091f\u093e\u090f\u0902"
+    },
+    "downloadCta": {
+        "message": "\u0907\u0938\u0947 \u0905\u092d\u0940 \u0921\u093e\u0909\u0928\u0932\u094b\u0921 \u0915\u0930\u0947\u0902"
+    },
+    "edit": {
+        "message": "\u0938\u0902\u092a\u093e\u0926\u0928"
+    },
+    "excel": {
+        "message": "\u090f\u0915\u094d\u200d\u0938\u0947\u0932 \u0938\u0947 \u092a\u0940\u0921\u0940\u090f\u092b"
+    },
+    "extract": {
+        "message": "\u092a\u0940\u0921\u0940\u090f\u092b \u0938\u0947 \u091c\u0947\u092a\u0940\u091c\u0940"
+    },
+    "fileIsReady": {
+        "message": "\u0906\u092a\u0915\u0940 \u092b\u093e\u0907\u0932 \u0924\u0948\u092f\u093e\u0930 \u0939\u0948"
+    },
+    "file_type_excel": {
+        "message": "\u090f\u0915\u094d\u200d\u0938\u0947\u0932"
+    },
+    "file_type_generic_image": {
+        "message": "\u091b\u0935\u093f"
+    },
+    "file_type_generic_image_plural": {
+        "message": "\u091b\u0935\u093f\u092f\u093e\u0902"
+    },
+    "file_type_generic_office": {
+        "message": "\u0911\u092b\u093f\u0938"
+    },
+    "file_type_pdf_plural": {
+        "message": "\u092a\u0940\u0921\u0940\u090f\u092b\u090f\u0938"
+    },
+    "file_type_powerpoint_long": {
+        "message": "\u092a\u093e\u0935\u0930\u092a\u094d\u200d\u0935\u093e\u0907\u0902\u091f"
+    },
+    "file_type_word": {
+        "message": "\u0935\u0930\u094d\u0921"
+    },
+    "gmail_converter_action_add_attachment_compress": {
+        "message": "{file_type} \u092b\u093e\u0907\u0932\u094b\u0902 \u0915\u094b \u0915\u0902\u092a\u094d\u0930\u0947\u0938 \u0914\u0930 \u0938\u0902\u0932\u0917\u094d\u0928 \u0915\u0930\u0947\u0902"
+    },
+    "gmail_converter_action_dismiss": {
+        "message": "\u0930\u0926\u094d\u0926 \u0915\u0930\u0928\u093e"
+    },
+    "gmail_converter_error_processing_generic": {
+        "message": "\u0907\u0938 \u0926\u0938\u094d\u0924\u093e\u0935\u0947\u091c\u093c \u0915\u094b \u092a\u094d\u0930\u094b\u0938\u0947\u0938 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u0935\u093f\u092b\u0932\u0964"
+    },
+    "gmail_converter_error_unsupported_file_type": {
+        "message": "\u092f\u0939 \u092b\u093e\u0907\u0932 \u092a\u094d\u0930\u0915\u093e\u0930 \u0938\u092e\u0930\u094d\u0925\u093f\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964"
+    },
+    "gmail_converter_intro_action_confirm": {
+        "message": "\u0906\u0907\u092f\u0947 \u0906\u091c\u092e\u093e\u0924\u0947 \u0939\u0948\u093e!"
+    },
+    "gmail_converter_intro_description": {
+        "message": "{bang} {app_name} \u0915\u0947 \u0938\u093e\u0925 \u0905\u092a\u0928\u0947 {file_type} \u0938\u0902\u0932\u0917\u094d\u200d\u0928\u0915\u094b\u0902 \u0915\u093e \u0906\u0915\u093e\u0930 \u0915\u092e \u0915\u0930\u0947\u0902\u0964"
+    },
+    "gmail_converter_status_processing_compress": {
+        "message": "\u0915\u0902\u092a\u094d\u0930\u0947\u0938 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948..."
+    },
+    "gmail_converter_status_processing_generic": {
+        "message": "\u092a\u094d\u0930\u094b\u0938\u0947\u0938 \u0939\u094b \u0930\u0939\u093e \u0939\u0948..."
+    },
+    "gmail_converter_status_uploading": {
+        "message": "\u0905\u092a\u0932\u094b\u0921 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948..."
+    },
+    "gmail_intro_action_confirm": {
+        "message": "\u0920\u0940\u0915 \u0939\u0948, \u092e\u093f\u0932 \u0917\u092f\u093e"
+    },
+    "gmail_intro_action_next": {
+        "message": "\u0905\u0917\u0932\u093e"
+    },
+    "gmail_intro_compress": {
+        "message": "\u0905\u092a\u0928\u0947 {input_format} \u0938\u0902\u0932\u0917\u094d\u200d\u0928\u0915\u094b\u0902 \u0915\u093e \u0938\u0940\u0927\u0947 \u091c\u0940\u092e\u0947\u0932 \u092e\u0947\u0902 \u0906\u0915\u093e\u0930 \u0915\u092e \u0915\u0930\u0947\u0902"
+    },
+    "gmail_intro_convert_attachments": {
+        "message": "{input_format} \u0938\u0902\u0932\u0917\u094d\u200d\u0928\u0915\u094b\u0902 \u0915\u094b {output_format_word}, {output_format_excel}, {output_format_ppt}, \u0914\u0930 {output_format_jpg} \u092e\u0947\u0902 \u0915\u0928\u0935\u0930\u094d\u091f \u0915\u0930\u0947\u0902"
+    },
+    "gmail_intro_features_convert_images": {
+        "message": "{input_file_types_list} \u092b\u093e\u0907\u0932\u094b\u0902 \u0915\u094b {output_file_type} \u092e\u0947\u0902 \u0915\u0928\u0935\u0930\u094d\u091f \u0915\u0930\u0947\u0902\u0964"
+    },
+    "gmail_intro_features_convert_pdf": {
+        "message": "{input_file_type} \u0938\u0902\u0932\u0917\u094d\u200d\u0928\u0915\u094b\u0902 \u0915\u094b {output_file_types_list} \u092b\u093e\u0907\u0932\u094b\u0902 \u092e\u0947\u0902 \u0915\u0928\u0935\u0930\u094d\u091f \u0915\u0930\u0947\u0902\u0964"
+    },
+    "gmail_intro_lead": {
+        "message": "{bang} \u091c\u0940\u092e\u0947\u0932 \u0938\u0902\u0932\u0917\u094d\u200d\u0928\u0915\u094b\u0902 \u0915\u094b {app_name} \u0915\u0947 \u0938\u093e\u0925 \u0915\u0928\u0935\u0930\u094d\u091f \u0915\u0930\u0947\u0902"
+    },
+    "gmail_intro_new": {
+        "message": "\u0928\u092f\u093e!"
+    },
+    "job_status_uploading": {
+        "message": "\u0905\u092a\u0932\u094b\u0921 \u0939\u094b \u0930\u0939\u0940 \u0939\u0948..."
+    },
+    "jpg": {
+        "message": "\u091c\u0947\u092a\u0940\u091c\u0940 \u0938\u0947 \u092a\u0940\u0921\u0940\u090f\u092b"
+    },
+    "list_conjunction_long_end": {
+        "message": "{0} \u0914\u0930 {1}"
+    },
+    "list_conjunction_long_middle": {
+        "message": "{0}, {1}"
+    },
+    "list_conjunction_long_pair": {
+        "message": "{0} \u0914\u0930 {1}"
+    },
+    "list_conjunction_long_start": {
+        "message": "{0}, {1}"
+    },
+    "list_disjunction_long_end": {
+        "message": "{0} \u092f\u093e {1}"
+    },
+    "list_disjunction_long_middle": {
+        "message": "{0}, {1}"
+    },
+    "list_disjunction_long_pair": {
+        "message": "{0} \u092f\u093e {1}"
+    },
+    "list_disjunction_long_start": {
+        "message": "{0}, {1}"
+    },
+    "merge": {
+        "message": "\u092e\u093f\u0932\u093e\u090f\u0902"
+    },
+    "noInternetConnection": {
+        "message": "\u0915\u094b\u0908 \u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0915\u0928\u0947\u0915\u094d\u200d\u0936\u0928 \u0928\u0939\u0940\u0902 \u0939\u0948"
+    },
+    "options_extension_version": {
+        "message": "{browser_name} \u0935\u093f\u0938\u094d\u200d\u0924\u093e\u0930 \/ {version}"
+    },
+    "options_setting_gmail_integration_description": {
+        "message": "\u091c\u0940\u092e\u0947\u0932 \u090f\u0915\u0940\u0915\u0930\u0923 \u0906\u092a\u0915\u094b \u0908\u092e\u0947\u0932 \u0938\u0902\u0932\u0917\u094d\u200d\u0928\u0915\u094b\u0902 \u0915\u094b {file_type} \u092e\u0947\u0902 \u0914\u0930 \u0938\u0947 \u0915\u0928\u0935\u0930\u094d\u091f \u0915\u0930\u0928\u0947 \u0915\u0940 \u0905\u0928\u0941\u092e\u0924\u093f \u0926\u0947\u0924\u093e \u0939\u0948\u0964"
+    },
+    "options_setting_gmail_integration_title": {
+        "message": "\u091c\u0940\u092e\u0947\u0932 \u090f\u0915\u0940\u0915\u0930\u0923"
+    },
+    "options_setting_local_files_description": {
+        "message": "{file_types} \u0915\u094b {browser_name} \u092e\u0947\u0902 \u0916\u094b\u0932\u0928\u0947 \u092e\u0947\u0902 \u0938\u0915\u094d\u0937\u092e \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u092a\u0928\u0947 \u0938\u094d\u0925\u093e\u0928\u0940\u092f \u092b\u093e\u0907\u0932 \u092f\u0942\u0906\u0930\u090f\u0932 \u0924\u0915 {app_name} \u0915\u094b \u0910\u0915\u094d\u200d\u0938\u0947\u0938 \u0926\u0947\u0902\u0964"
+    },
+    "options_setting_local_files_title": {
+        "message": "\u0938\u094d\u200d\u0925\u093e\u0928\u0940\u092f \u092b\u093e\u0907\u0932\u094b\u0902 \u092a\u0930 {app_name} \u0915\u093e \u0935\u093f\u0938\u094d\u200d\u0924\u093e\u0930 \u0938\u0915\u094d\u0937\u092e \u0915\u0930\u0947\u0902"
+    },
+    "options_setting_status_disabled": {
+        "message": "\u0905\u0915\u094d\u0937\u092e \u0939\u0948"
+    },
+    "pdf_to_excel": {
+        "message": "\u092a\u0940\u0921\u0940\u090f\u092b \u0938\u0947 \u090f\u0915\u094d\u200d\u0938\u0947\u0932"
+    },
+    "pdf_to_ppt": {
+        "message": "\u092a\u0940\u0921\u0940\u090f\u092b \u0938\u0947 \u092a\u0940\u092a\u0940\u091f\u0940"
+    },
+    "pdf_to_word": {
+        "message": "\u092a\u0940\u0921\u0940\u090f\u092b \u0938\u0947 \u0935\u0930\u094d\u0921"
+    },
+    "ppt": {
+        "message": "\u092a\u0940\u092a\u0940\u091f\u0940 \u0938\u0947 \u092a\u0940\u0921\u0940\u090f\u092b"
+    },
+    "processingFailedMessage": {
+        "message": "\u0915\u094d\u0937\u092e\u093e \u0915\u0930\u0947\u0902, \u0906\u092a\u0915\u0940 \u092b\u093e\u0907\u0932 \u0915\u094b \u0938\u0902\u0938\u093e\u0927\u093f\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u0915\u094b\u0908 \u0938\u092e\u0938\u094d\u092f\u093e \u0925\u0940"
+    },
+    "processingFailedTitle": {
+        "message": "\u0938\u0902\u0938\u093e\u0927\u093f\u0915 \u0915\u0930\u0928\u093e \u0935\u093f\u092b\u0932 \u0930\u0939\u093e"
+    },
+    "protect": {
+        "message": "\u0938\u0902\u0930\u0915\u094d\u0937\u093f\u0924"
+    },
+    "rotate": {
+        "message": "\u0918\u0941\u092e\u093e\u090f\u0902"
+    },
+    "sign": {
+        "message": "\u0939\u0938\u094d\u200d\u0924\u093e\u0915\u094d\u0937\u0930"
+    },
+    "split": {
+        "message": "\u0935\u093f\u092d\u093e\u091c\u0928"
+    },
+    "tools": {
+        "message": "\u091f\u0942\u0932\u094d\u200d\u0938"
+    },
+    "unlock": {
+        "message": "\u0905\u0928\u0932\u0949\u0915"
+    },
+    "uploadFailed": {
+        "message": "\u0915\u094d\u0937\u092e\u093e \u0915\u0930\u0947\u0902 \u0906\u092a\u0915\u093e \u0905\u092a\u0932\u094b\u0921 \u0935\u093f\u092b\u0932 \u0930\u0939\u093e"
+    },
+    "word": {
+        "message": "\u0935\u0930\u094d\u0921 \u0938\u0947 \u092a\u0940\u0921\u0940\u090f\u092b"
+    },
+    "download": {
+        "message": "डाउनलोड करें"
+    },
+    "print": {
+        "message": "प्रिंट"
+    },
+    "viewer_fit_to_page": {
+        "message": "पेज पर फिट"
+    },
+    "viewer_fit_to_width": {
+        "message": "चौड़ाई पर फिट"
+    },
+    "viewer_next_page": {
+        "message": "अगला पेज"
+    },
+    "viewer_of_pages": {
+        "message": "{total_pages} का"
+    },
+    "viewer_previous_page": {
+        "message": "पिछला पेज"
+    },
+    "viewer_rotate_clockwise": {
+        "message": "घड़ी की सुई की दिशा में घुमाओ"
+    },
+    "viewer_zoom_in": {
+        "message": "जूम इन"
+    },
+    "viewer_zoom_out": {
+        "message": "जूम आउट"
+    },
+    "beta_settings_title":{
+        "message": "Smallpdf बीटा टेस्ट प्रोग्राम"
+    },
+    "beta_settings_description":{
+        "message": "आप Smallpdf बीटा टेस्ट प्रोग्राम के मेंबर है इसलिए पब्लिक के लिए शुरू करने से भी पहले आपको हमारे नये फीचर्स का विशेष एक्सेस मिलता है।"
+    },
+    "file_schema_access_title": {
+        "message": "बस 3 आसान स्टैप्स और ये हो गया!"
+    },
+    "file_schema_access_description": {
+        "message": "Smallpdf टूल्स का ज्यादा से ज्यादा लाभ उठाने के लिए, Smallpdf टूल्स को Chrome Extension सेटिंग्स में, परमिशन इनेबल करके लोकल फाईल्स का एक्सेस दें।"
+    },
+    "file_schema_access_step1": {
+        "message": "Smallpdf Chrome Extension settings page पर जायें।"
+    },
+    "file_schema_access_step2": {
+        "message": "‘{option}’ के बटन को ‘on’ पर सेट करें।"
+    },
+    "file_schema_access_step3": {
+        "message": "सारी सेटिंग्स पूरी हो गई! याद रखें, आप अपनी पंसद की सेटिंग्स को कभी-भी बदल सकते हैं।"
+    },
+    "file_schema_access_chrome_option": {
+        "message": "फ़ाइल के यूआरएल तक एक्सेस दें"
+    },
+    "file_schema_access_select": {
+        "message": "या फाइल को दुबारा चुनें"
+    },
+    "file_schema_access_select_button": {
+        "message": "फाइल चुनें"
+    },
+    "password_modal_title": {
+        "message": "पासवर्ड चाहिये"
+    },
+    "password_modal_description": {
+        "message": "इस फाईल को पासवर्ड से सुरक्षित किया गया है। इसे खोलने के लिए प्लीज पासवर्ड डालें।"
+    },
+    "password_modal_placeholder": {
+        "message": "ासवर्ड डालें"
+    },
+    "password_modal_incorrect": {
+        "message": "गलत पासवर्ड"
+    },
+    "password_modal_submit": {
+        "message": "सबमिट"
+    },
+    "viewer_error_invalid_title": {
+        "message": "ओह हो! ऐसा लगता है कि आपकी फाइल PDF नहीं है या करप्ट हो गई है।"
+    },
+    "viewer_error_invalid_description": {
+        "message": "कृपया चेक करें कि आपकी फाइल एक वैध PDF है और दोबारा कोशिश करें।"
+    },
+    "viewer_error_action": {
+        "message": "नया PDF अपलोड करें"
+    },
+    "viewer_error_unknown_title": {
+        "message": "Oops! एक अज्ञात गलती हो गई!"
+    },
+    "viewer_error_unknown_description": {
+        "message": "परेशानी के लिए क्षमा करें।  😔 हमारे तकनीकी लोग इस पर काम कर रहे हैं!"
+    }
+}

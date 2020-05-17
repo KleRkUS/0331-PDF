@@ -1,0 +1,305 @@
+{
+    "action_app_website": {
+        "message": "{app_name} \uc6f9\uc0ac\uc774\ud2b8"
+    },
+    "action_browser_settings": {
+        "message": "{browser_name} \uc124\uc815"
+    },
+    "action_chrome_web_store": {
+        "message": "{browser_name} \uc6f9 \uc2a4\ud1a0\uc5b4"
+    },
+    "action_convert_to": {
+        "message": "{file_type}(\uc73c)\ub85c \ubcc0\ud658"
+    },
+    "action_manage_settings": {
+        "message": "\uc124\uc815 \uad00\ub9ac"
+    },
+    "appDesc": {
+        "message": "\ud3b8\uc9d1, \ubcc0\ud658, \ubcd1\ud569, \ub098\ub204\uae30 \ubc0f PDF \ud30c\uc77c \uc555\ucd95\uc744 \uc704\ud55c \uc0ac\uc6a9\ud558\uae30 \uc26c\uc6b4 PDF \ub3c4\uad6c. Gmail\uacfc \ud1b5\ud569."
+    },
+    "appName": {
+        "message": "Smallpdf - PDF \ud30c\uc77c \ud3b8\uc9d1, \uc555\ucd95 \ubc0f \ubcc0\ud658"
+    },
+    "compress": {
+        "message": "\uc555\ucd95"
+    },
+    "converter": {
+        "message": "\ubcc0\ud658"
+    },
+    "delete": {
+        "message": "\ud398\uc774\uc9c0 \uc0ad\uc81c"
+    },
+    "downloadCta": {
+        "message": "\uc9c0\uae08 \ub2e4\uc6b4\ub85c\ub4dc"
+    },
+    "edit": {
+        "message": "\ud3b8\uc9d1"
+    },
+    "excel": {
+        "message": "Excel\uc744 PDF\ub85c"
+    },
+    "extract": {
+        "message": "PDF\ub97c JPG\ub85c"
+    },
+    "fileIsReady": {
+        "message": "\ud30c\uc77c\uc774 \uc900\ube44\ub418\uc5c8\uc2b5\ub2c8\ub2e4"
+    },
+    "file_type_excel": {
+        "message": "Excel"
+    },
+    "file_type_generic_image": {
+        "message": "\uc774\ubbf8\uc9c0"
+    },
+    "file_type_generic_image_plural": {
+        "message": "\uc774\ubbf8\uc9c0"
+    },
+    "file_type_generic_office": {
+        "message": "Office"
+    },
+    "file_type_pdf_plural": {
+        "message": "PDF"
+    },
+    "file_type_powerpoint_long": {
+        "message": "PowerPoint"
+    },
+    "file_type_word": {
+        "message": "Word"
+    },
+    "gmail_converter_action_add_attachment_compress": {
+        "message": "{file_type} \ud30c\uc77c \uc555\ucd95 \ubc0f \ucca8\ubd80"
+    },
+    "gmail_converter_action_dismiss": {
+        "message": "\ucde8\uc18c"
+    },
+    "gmail_converter_error_processing_generic": {
+        "message": "\uc774 \ubb38\uc11c \ucc98\ub9ac \uc2e4\ud328"
+    },
+    "gmail_converter_error_unsupported_file_type": {
+        "message": "\uc774 \ud30c\uc77c \uc720\ud615\uc740 \uc9c0\uc6d0\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4."
+    },
+    "gmail_converter_intro_action_confirm": {
+        "message": "\ud574\ubcf4\uc138\uc694!"
+    },
+    "gmail_converter_intro_description": {
+        "message": "{bang} {app_name}(\uc73c)\ub85c {file_type} \ucca8\ubd80 \ud30c\uc77c\uc758 \ud06c\uae30\ub97c \uc904\uc774\uc138\uc694."
+    },
+    "gmail_converter_status_processing_compress": {
+        "message": "\uc555\ucd95 \uc911..."
+    },
+    "gmail_converter_status_processing_generic": {
+        "message": "\ucc98\ub9ac \uc911..."
+    },
+    "gmail_converter_status_uploading": {
+        "message": "\uc5c5\ub85c\ub4dc \uc911..."
+    },
+    "gmail_intro_action_confirm": {
+        "message": "\uc608, \uc54c\uaca0\uc2b5\ub2c8\ub2e4"
+    },
+    "gmail_intro_action_next": {
+        "message": "\ub2e4\uc74c"
+    },
+    "gmail_intro_compress": {
+        "message": "Gmail\uc5d0\uc11c \ubc14\ub85c {input_format} \ucca8\ubd80 \ud30c\uc77c\uc758 \ud06c\uae30\ub97c \uc904\uc785\ub2c8\ub2e4"
+    },
+    "gmail_intro_convert_attachments": {
+        "message": "{input_format} \ucca8\ubd80 \ud30c\uc77c\uc744 {output_format_word}, {output_format_excel}, {output_format_ppt} \ubc0f {output_format_jpg}\ub85c \ubcc0\ud658\ud569\ub2c8\ub2e4"
+    },
+    "gmail_intro_features_convert_images": {
+        "message": "{input_file_types_list} \ud30c\uc77c\uc744 {output_file_type}(\uc73c)\ub85c \ubcc0\ud658\ud569\ub2c8\ub2e4."
+    },
+    "gmail_intro_features_convert_pdf": {
+        "message": "{input_file_type} \ucca8\ubd80 \ud30c\uc77c\uc744 {output_file_types_list} \ud30c\uc77c\ub85c \ubcc0\ud658\ud569\ub2c8\ub2e4."
+    },
+    "gmail_intro_lead": {
+        "message": "{bang} {app_name}\ub85c Gmail \ucca8\ubd80 \ud30c\uc77c \ubcc0\ud658"
+    },
+    "gmail_intro_new": {
+        "message": "\uc2e0\uaddc!"
+    },
+    "job_status_uploading": {
+        "message": "\uc5c5\ub85c\ub4dc \uc911..."
+    },
+    "jpg": {
+        "message": "JPG\ub97c PDF\ub85c"
+    },
+    "list_conjunction_long_end": {
+        "message": "{0} \ubc0f {1}"
+    },
+    "list_conjunction_long_middle": {
+        "message": "{0}, {1}"
+    },
+    "list_conjunction_long_pair": {
+        "message": "{0} \ubc0f {1}"
+    },
+    "list_conjunction_long_start": {
+        "message": "{0}, {1}"
+    },
+    "list_disjunction_long_end": {
+        "message": "{0} \ub610\ub294 {1}"
+    },
+    "list_disjunction_long_middle": {
+        "message": "{0}, {1}"
+    },
+    "list_disjunction_long_pair": {
+        "message": "{0} \ub610\ub294 {1}"
+    },
+    "list_disjunction_long_start": {
+        "message": "{0}, {1}"
+    },
+    "merge": {
+        "message": "\ubcd1\ud569"
+    },
+    "noInternetConnection": {
+        "message": "\uc778\ud130\ub137 \uc5f0\uacb0 \uc5c6\uc74c"
+    },
+    "options_extension_version": {
+        "message": "{browser_name} \ud655\uc7a5 \/ {version}"
+    },
+    "options_setting_gmail_integration_description": {
+        "message": "Gmail \ud1b5\ud569\uc73c\ub85c \uc774\uba54\uc77c \ucca8\ubd80 \ud30c\uc77c\uc744 {file_type}(\uc73c)\ub85c \ubcc0\ud658\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+    },
+    "options_setting_gmail_integration_title": {
+        "message": "Gmail \ud1b5\ud569"
+    },
+    "options_setting_local_files_description": {
+        "message": "\ub85c\uceec \ud30c\uc77c URL\uc5d0 {app_name} \uad8c\ud55c\uc744 \ubd80\uc5ec\ud558\uc5ec {browser_name}\uc5d0\uc11c {file_types}\uc774(\uac00) \uc5f4\ub9ac\ub3c4\ub85d \ud65c\uc131\ud654\ud558\uc138\uc694."
+    },
+    "options_setting_local_files_title": {
+        "message": "\ub85c\uceec \ud30c\uc77c\uc5d0 {app_name} \ud655\uc7a5 \ud65c\uc131\ud654"
+    },
+    "options_setting_status_disabled": {
+        "message": "\ube44\ud65c\uc131\ud654\ub428"
+    },
+    "pdf_to_excel": {
+        "message": "PDF\ub97c Excel\ub85c"
+    },
+    "pdf_to_ppt": {
+        "message": "PDF\ub97c PPT\ub85c"
+    },
+    "pdf_to_word": {
+        "message": "PDF\ub97c Word\ub85c"
+    },
+    "ppt": {
+        "message": "PPT\ub97c PDF\ub85c"
+    },
+    "processingFailedMessage": {
+        "message": "\uc8c4\uc1a1\ud569\ub2c8\ub2e4, \ud30c\uc77c \ucc98\ub9ac \uc911\uc5d0 \ubb38\uc81c\uac00 \ubc1c\uc0dd\ud588\uc2b5\ub2c8\ub2e4"
+    },
+    "processingFailedTitle": {
+        "message": "\ucc98\ub9ac \uc2e4\ud328"
+    },
+    "protect": {
+        "message": "\ubcf4\ud638"
+    },
+    "rotate": {
+        "message": "\ud68c\uc804"
+    },
+    "sign": {
+        "message": "\uc11c\uba85"
+    },
+    "split": {
+        "message": "\ubd84\ud560"
+    },
+    "tools": {
+        "message": "\ub3c4\uad6c"
+    },
+    "unlock": {
+        "message": "\uc7a0\uae08 \ud574\uc81c"
+    },
+    "uploadFailed": {
+        "message": "\uc5c5\ub85c\ub4dc\uc5d0 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4"
+    },
+    "word": {
+        "message": "Word\ub97c PDF\ub85c"
+    },
+    "download": {
+        "message": "다운로드"
+    },
+    "print": {
+        "message": "인쇄"
+    },
+    "viewer_fit_to_page": {
+        "message": "페이지에 맞추기"
+    },
+    "viewer_fit_to_width": {
+        "message": "너비에 맞추기"
+    },
+    "viewer_next_page": {
+        "message": "다음 페이지"
+    },
+    "viewer_of_pages": {
+        "message": "/ {total_pages}"
+    },
+    "viewer_previous_page": {
+        "message": "이전 페이지"
+    },
+    "viewer_rotate_clockwise": {
+        "message": "시계 방향으로 회전"
+    },
+    "viewer_zoom_in": {
+        "message": "확대"
+    },
+    "viewer_zoom_out": {
+        "message": "축소"
+    },
+    "beta_settings_title":{
+        "message": "Smallpdf 베타 테스트 프로그램"
+    },
+    "beta_settings_description":{
+        "message": "Smallpdf 베타 테스트 프로그램에 참여한 사용자 여러분께만 최신 기능을 공개 출시하기 전에 먼저 이용해보실 수 있도록 지원해드립니다."
+    },
+    "file_schema_access_title": {
+        "message": "간단한 3단계 절차만 거치면 된답니다!"
+    },
+    "file_schema_access_description": {
+        "message": "Smallpdf 도구의 기능을 최대한 활용하려면 Chrome 확장 프로그램 설정에서 Smallpdf 도구에 로컬 파일 액세스를 허용해 주세요."
+    },
+    "file_schema_access_step1": {
+        "message": "Smallpdf Chrome 확장 프로그램 설정 페이지로 이동합니다."
+    },
+    "file_schema_access_step2": {
+        "message": "‘{option}’을 체크합니다."
+    },
+    "file_schema_access_step3": {
+        "message": "끝났습니다! 언제든 사용자 설정은 변경할 수 있다는 점도 기억해 주세요."
+    },
+    "file_schema_access_chrome_option": {
+        "message": "파일 URL에 대한 액세스 허용"
+    },
+    "file_schema_access_select": {
+        "message": "또는 파일을 다시 선택하세요"
+    },
+    "file_schema_access_select_button": {
+        "message": "파일 선택"
+    },
+    "password_modal_title": {
+        "message": "암호 필요"
+    },
+    "password_modal_description": {
+        "message": "이 문서는 암호로 보호됩니다. 문서를 열려면 암호를 입력해 주세요."
+    },
+    "password_modal_placeholder": {
+        "message": "암호 입력"
+    },
+    "password_modal_incorrect": {
+        "message": "잘못된 암호입니다"
+    },
+    "password_modal_submit": {
+        "message": "확인"
+    },
+    "viewer_error_invalid_title": {
+        "message": "이런! 파일이 PDF 형식이 아니거나 손상된 것 같네요."
+    },
+    "viewer_error_invalid_description": {
+        "message": "유효한 PDF 파일인지 확인하고 다시 시도해 주세요."
+    },
+    "viewer_error_action": {
+        "message": "새 PDF 업로드"
+    },
+    "viewer_error_unknown_title": {
+        "message": "죄송합니다! 알 수 없는 오류가 발생했습니다!"
+    },
+    "viewer_error_unknown_description": {
+        "message": "불편을 끼쳐드려 정말 죄송합니다. 😔 기술팀에서 문제를 해결하고 있습니다!"
+    }
+}
